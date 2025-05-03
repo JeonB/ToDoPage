@@ -35,6 +35,7 @@ https://jso-to-do-page.vercel.app/
 - ✔ 서버리스 API 활용 (Vercel Functions)
 
 ## 📂 프로젝트 구조
+
 ```
 📦 kanban-board
 ┣ 📂 app
@@ -60,6 +61,7 @@ https://jso-to-do-page.vercel.app/
 ┃ ┣ 📜 layout.tsx                    # 전체 레이아웃
 ┃ ┗ 📜 globals.css                   # 글로벌 스타일링
 ```
+
 ## 🚀 실행 방법
 
 ### 1️⃣ 프로젝트 클론
